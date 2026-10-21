@@ -1,7 +1,13 @@
 # Python Task Tracker
 
 A simple command-line task tracker built with Python. This project is part of my Python learning journey.
-project URL :- https://roadmap.sh/projects/task-tracker
+
+## Project Reference
+
+This project was built as part of the roadmap.sh Task Tracker project:
+
+https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - Add tasks
